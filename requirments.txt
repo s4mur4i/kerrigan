@@ -1,0 +1,9 @@
+lxml==3.3.3
+PyYAML==3.10
+boto3==1.2.3
+prettytable==0.7.2
+argparse==1.2.1
+futures==3.0.2
+python-simple-hipchat==0.3.3
+paramiko==1.15.2
+enum==0.4.6
